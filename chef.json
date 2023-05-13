@@ -8,7 +8,7 @@
    "likes": 10000,
    "bio": "Tahmina Begum is a Bangladeshi chef who specializes in street food. He is known for his creative and innovative take on traditional Bangladeshi street food, such as pitha and fuchka. Rahim is also an advocate for the street food industry and has worked to promote the safety and hygiene of street food vendors in Bangladesh.",
    "recipes": [
-    {
+    {  "id":"7",
       "recipe_name": "Beef Bhuna",
       "ingredients": [
         "1 pound beef, cut into small pieces",
@@ -20,7 +20,7 @@
       "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
       "rating": 4
     },
-    {
+    { "id":"8",
       "recipe_name": "Shorshe Ilish",
       "ingredients": [
         "2 large pieces of ilish (hilsa) fish",
@@ -32,7 +32,7 @@
       "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
       "rating": 4.5
     },
-    {
+    { "id":"9",
       "recipe_name": "Chitol Maacher Muitha",
       "ingredients": [
         "1 pound chitol fish, minced",
@@ -56,7 +56,7 @@
    "bio": "Mohammad Rahman is a Bangladeshi chef who specializes in desserts and sweets. She is known for her use of traditional Bangladeshi ingredients, such as jaggery and coconut, to create unique and flavorful desserts. Sultana is also an expert in traditional Bangladeshi sweets, such as rasgulla and sandesh, and has been featured on several cooking shows for her expertise in this area.",
 
    "recipes": [
-    {
+    {  "id":"10",
       "recipe_name": "Beef Bhuna",
       "ingredients": [
         "1 pound beef, cut into small pieces",
@@ -68,7 +68,7 @@
       "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
       "rating": 4
     },
-    {
+    { "id":"11",
       "recipe_name": "Shorshe Ilish",
       "ingredients": [
         "2 large pieces of ilish (hilsa) fish",
@@ -80,7 +80,7 @@
       "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
       "rating": 4.5
     },
-    {
+    { "id":"12",
       "recipe_name": "Chitol Maacher Muitha",
       "ingredients": [
         "1 pound chitol fish, minced",
@@ -104,7 +104,7 @@
    "bio": "Farhana Ahmed is a chef from Chittagong, Bangladesh, who has a passion for seafood. He has worked in several restaurants along the coast of Bangladesh and has a deep understanding of the local seafood industry. Abdul's dishes are known for their bold flavors and use of fresh, sustainably-caught seafood."
 ,
    "recipes": [
-    {
+    { "id":"13",
       "recipe_name": "Beef Bhuna",
       "ingredients": [
         "1 pound beef, cut into small pieces",
@@ -116,7 +116,7 @@
       "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
       "rating": 4
     },
-    {
+    { "id":"14",
       "recipe_name": "Shorshe Ilish",
       "ingredients": [
         "2 large pieces of ilish (hilsa) fish",
@@ -128,7 +128,7 @@
       "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
       "rating": 4.5
     },
-    {
+    { "id":"15",
       "recipe_name": "Chitol Maacher Muitha",
       "ingredients": [
         "1 pound chitol fish, minced",
@@ -152,7 +152,7 @@
    "bio": "Kamal Hossain is a Bangladeshi chef who specializes in vegetarian and vegan cuisine. She is known for her innovative use of plant-based ingredients to create dishes that are both nutritious and delicious. Nazia is also an advocate for sustainable food practices and sources her ingredients from local organic farmers whenever possible."
 ,
    "recipes": [
-    {
+    { "id":"16",
       "recipe_name": "Beef Bhuna",
       "ingredients": [
         "1 pound beef, cut into small pieces",
@@ -164,7 +164,7 @@
       "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
       "rating": 4
     },
-    {
+    { "id":"17",
       "recipe_name": "Shorshe Ilish",
       "ingredients": [
         "2 large pieces of ilish (hilsa) fish",
@@ -176,7 +176,7 @@
       "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
       "rating": 4.5
     },
-    {
+    { "id":"18",
       "recipe_name": "Chitol Maacher Muitha",
       "ingredients": [
         "1 pound chitol fish, minced",
@@ -200,7 +200,7 @@
    "bio": "Ayesha Akhtar is a chef from Dhaka, Bangladesh, with a passion for modern Bangladeshi cuisine. He has worked in several high-end restaurants in Bangladesh and has been featured on several cooking shows. Tariq's dishes are known for their innovative flavors and creative presentation, and he is a master at using traditional Bangladeshi ingredients in new and unexpected ways."
 ,
    "recipes": [
-    {
+    { "id":"19",
       "recipe_name": "Beef Bhuna",
       "ingredients": [
         "1 pound beef, cut into small pieces",
@@ -212,7 +212,7 @@
       "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
       "rating": 4
     },
-    {
+    { "id":"20",
       "recipe_name": "Shorshe Ilish",
       "ingredients": [
         "2 large pieces of ilish (hilsa) fish",
@@ -224,7 +224,7 @@
       "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
       "rating": 4.5
     },
-    {
+    { "id":"21",
       "recipe_name": "Chitol Maacher Muitha",
       "ingredients": [
         "1 pound chitol fish, minced",
@@ -248,7 +248,7 @@
    "bio": "Abdul Aziz is a well-known Bangladeshi chef who has been in the culinary industry for over 30 years. She specializes in traditional Bangladeshi cuisine and has published several cookbooks. Farida's dishes are known for their bold flavors and use of fresh, locally-sourced ingredients. She is also a strong advocate for sustainable and ethical food practices."
 ,
    "recipes": [
-    {
+    { "id":"22",
       "recipe_name": "Beef Bhuna",
       "ingredients": [
         "1 pound beef, cut into small pieces",
@@ -260,7 +260,7 @@
       "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
       "rating": 4
     },
-    {
+    { "id":"23",
       "recipe_name": "Shorshe Ilish",
       "ingredients": [
         "2 large pieces of ilish (hilsa) fish",
@@ -272,7 +272,7 @@
       "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
       "rating": 4.5
     },
-    {
+    { "id":"24",
       "recipe_name": "Chitol Maacher Muitha",
       "ingredients": [
         "1 pound chitol fish, minced",
