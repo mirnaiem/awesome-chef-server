@@ -1,44 +1,289 @@
 [
- {
-   "picture": "https://example.com/chef1.jpg",
+ { 
+   "id":"1",
+   "picture": "https://img.freepik.com/free-photo/chef-female-holds-punmping-dark-background_613910-7184.jpg?w=1060&t=st=1683879722~exp=1683880322~hmac=0eca9621102716f7e6e3d84c9c653c49a6480b9db96aefe5dd74d784d021cd83",
    "name": "Tahmina Begum",
    "experience_years": 15,
    "num_recipes": 50,
-   "likes": 10000
+   "likes": 10000,
+   "bio": "Tahmina Begum is a Bangladeshi chef who specializes in street food. He is known for his creative and innovative take on traditional Bangladeshi street food, such as pitha and fuchka. Rahim is also an advocate for the street food industry and has worked to promote the safety and hygiene of street food vendors in Bangladesh.",
+   "recipes": [
+    {
+      "recipe_name": "Beef Bhuna",
+      "ingredients": [
+        "1 pound beef, cut into small pieces",
+        "1/2 cup sliced onion",
+        "1/4 cup vegetable oil",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste"
+      ],
+      "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
+      "rating": 4
+    },
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "2 large pieces of ilish (hilsa) fish",
+        "3 tablespoons mustard oil",
+        "1 tablespoon mustard seeds",
+        "1 teaspoon turmeric powder",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chitol Maacher Muitha",
+      "ingredients": [
+        "1 pound chitol fish, minced",
+        "1/2 cup boiled potatoes, mashed",
+        "1/4 cup grated coconut",
+        "2 tablespoons chopped onion",
+        "1 teaspoon cumin powder"
+      ],
+      "cooking_method": "Mix minced fish, mashed potatoes, grated coconut, chopped onion, cumin powder, and salt in a bowl. Mix well and knead the mixture for 5-7 minutes until it becomes soft and smooth. Make small balls from the mixture. Heat water in a pan and bring it to a boil. Add the fish balls to the boiling water and cook for 10-15 minutes until the balls float on the surface and are cooked through. Remove from the water and keep aside. In a separate pan, heat oil and fry the fish balls until golden brown. Serve hot with tamarind sauce.",
+      "rating": 4
+    }
+  ]
  },
  {
-   "picture": "https://example.com/chef2.jpg",
+   "id":"2",
+   "picture": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-holds-knife-with-teeth-isolated-white-background-with-copy-space_141793-34950.jpg?size=626&ext=jpg&ga=GA1.2.1419972379.1680192737&semt=ais",
    "name": "Mohammad Rahman",
    "experience_years": 10,
    "num_recipes": 30,
-   "likes": 5000
+   "likes": 5000,
+   "bio": "Mohammad Rahman is a Bangladeshi chef who specializes in desserts and sweets. She is known for her use of traditional Bangladeshi ingredients, such as jaggery and coconut, to create unique and flavorful desserts. Sultana is also an expert in traditional Bangladeshi sweets, such as rasgulla and sandesh, and has been featured on several cooking shows for her expertise in this area.",
+
+   "recipes": [
+    {
+      "recipe_name": "Beef Bhuna",
+      "ingredients": [
+        "1 pound beef, cut into small pieces",
+        "1/2 cup sliced onion",
+        "1/4 cup vegetable oil",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste"
+      ],
+      "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
+      "rating": 4
+    },
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "2 large pieces of ilish (hilsa) fish",
+        "3 tablespoons mustard oil",
+        "1 tablespoon mustard seeds",
+        "1 teaspoon turmeric powder",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chitol Maacher Muitha",
+      "ingredients": [
+        "1 pound chitol fish, minced",
+        "1/2 cup boiled potatoes, mashed",
+        "1/4 cup grated coconut",
+        "2 tablespoons chopped onion",
+        "1 teaspoon cumin powder"
+      ],
+      "cooking_method": "Mix minced fish, mashed potatoes, grated coconut, chopped onion, cumin powder, and salt in a bowl. Mix well and knead the mixture for 5-7 minutes until it becomes soft and smooth. Make small balls from the mixture. Heat water in a pan and bring it to a boil. Add the fish balls to the boiling water and cook for 10-15 minutes until the balls float on the surface and are cooked through. Remove from the water and keep aside. In a separate pan, heat oil and fry the fish balls until golden brown. Serve hot with tamarind sauce.",
+      "rating": 4
+    }
+  ]
  },
  {
-   "picture": "https://example.com/chef3.jpg",
+  "id":"3",
+   "picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-smiling-posing-pink-wall-cook-confectionery-sweet-pastry-work_140725-35324.jpg?size=626&ext=jpg&ga=GA1.2.1419972379.1680192737&semt=ais",
    "name": "Farhana Ahmed",
    "experience_years": 8,
    "num_recipes": 20,
-   "likes": 3000
+   "likes": 3000,
+   "bio": "Farhana Ahmed is a chef from Chittagong, Bangladesh, who has a passion for seafood. He has worked in several restaurants along the coast of Bangladesh and has a deep understanding of the local seafood industry. Abdul's dishes are known for their bold flavors and use of fresh, sustainably-caught seafood."
+,
+   "recipes": [
+    {
+      "recipe_name": "Beef Bhuna",
+      "ingredients": [
+        "1 pound beef, cut into small pieces",
+        "1/2 cup sliced onion",
+        "1/4 cup vegetable oil",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste"
+      ],
+      "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
+      "rating": 4
+    },
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "2 large pieces of ilish (hilsa) fish",
+        "3 tablespoons mustard oil",
+        "1 tablespoon mustard seeds",
+        "1 teaspoon turmeric powder",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chitol Maacher Muitha",
+      "ingredients": [
+        "1 pound chitol fish, minced",
+        "1/2 cup boiled potatoes, mashed",
+        "1/4 cup grated coconut",
+        "2 tablespoons chopped onion",
+        "1 teaspoon cumin powder"
+      ],
+      "cooking_method": "Mix minced fish, mashed potatoes, grated coconut, chopped onion, cumin powder, and salt in a bowl. Mix well and knead the mixture for 5-7 minutes until it becomes soft and smooth. Make small balls from the mixture. Heat water in a pan and bring it to a boil. Add the fish balls to the boiling water and cook for 10-15 minutes until the balls float on the surface and are cooked through. Remove from the water and keep aside. In a separate pan, heat oil and fry the fish balls until golden brown. Serve hot with tamarind sauce.",
+      "rating": 4
+    }
+  ]
  },
  {
-   "picture": "https://example.com/chef4.jpg",
+  "id":"4",
+   "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-holding-cleaver-showing-thumb-up-isolated-white-wall_141793-101073.jpg?size=626&ext=jpg&ga=GA1.2.1419972379.1680192737&semt=ais",
    "name": "Kamal Hossain",
    "experience_years": 12,
    "num_recipes": 40,
-   "likes": 8000
+   "likes": 8000,
+   "bio": "Kamal Hossain is a Bangladeshi chef who specializes in vegetarian and vegan cuisine. She is known for her innovative use of plant-based ingredients to create dishes that are both nutritious and delicious. Nazia is also an advocate for sustainable food practices and sources her ingredients from local organic farmers whenever possible."
+,
+   "recipes": [
+    {
+      "recipe_name": "Beef Bhuna",
+      "ingredients": [
+        "1 pound beef, cut into small pieces",
+        "1/2 cup sliced onion",
+        "1/4 cup vegetable oil",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste"
+      ],
+      "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
+      "rating": 4
+    },
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "2 large pieces of ilish (hilsa) fish",
+        "3 tablespoons mustard oil",
+        "1 tablespoon mustard seeds",
+        "1 teaspoon turmeric powder",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chitol Maacher Muitha",
+      "ingredients": [
+        "1 pound chitol fish, minced",
+        "1/2 cup boiled potatoes, mashed",
+        "1/4 cup grated coconut",
+        "2 tablespoons chopped onion",
+        "1 teaspoon cumin powder"
+      ],
+      "cooking_method": "Mix minced fish, mashed potatoes, grated coconut, chopped onion, cumin powder, and salt in a bowl. Mix well and knead the mixture for 5-7 minutes until it becomes soft and smooth. Make small balls from the mixture. Heat water in a pan and bring it to a boil. Add the fish balls to the boiling water and cook for 10-15 minutes until the balls float on the surface and are cooked through. Remove from the water and keep aside. In a separate pan, heat oil and fry the fish balls until golden brown. Serve hot with tamarind sauce.",
+      "rating": 4
+    }
+  ]
  },
  {
-   "picture": "https://example.com/chef5.jpg",
+  "id":"5",
+   "picture": "https://img.freepik.com/free-photo/female-chef-kitchen-separating-eggs-bowl_23-2149720741.jpg?size=626&ext=jpg&ga=GA1.1.1419972379.1680192737&semt=ais",
    "name": "Ayesha Akhtar",
    "experience_years": 6,
    "num_recipes": 25,
-   "likes": 2000
+   "likes": 2000,
+   "bio": "Ayesha Akhtar is a chef from Dhaka, Bangladesh, with a passion for modern Bangladeshi cuisine. He has worked in several high-end restaurants in Bangladesh and has been featured on several cooking shows. Tariq's dishes are known for their innovative flavors and creative presentation, and he is a master at using traditional Bangladeshi ingredients in new and unexpected ways."
+,
+   "recipes": [
+    {
+      "recipe_name": "Beef Bhuna",
+      "ingredients": [
+        "1 pound beef, cut into small pieces",
+        "1/2 cup sliced onion",
+        "1/4 cup vegetable oil",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste"
+      ],
+      "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
+      "rating": 4
+    },
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "2 large pieces of ilish (hilsa) fish",
+        "3 tablespoons mustard oil",
+        "1 tablespoon mustard seeds",
+        "1 teaspoon turmeric powder",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chitol Maacher Muitha",
+      "ingredients": [
+        "1 pound chitol fish, minced",
+        "1/2 cup boiled potatoes, mashed",
+        "1/4 cup grated coconut",
+        "2 tablespoons chopped onion",
+        "1 teaspoon cumin powder"
+      ],
+      "cooking_method": "Mix minced fish, mashed potatoes, grated coconut, chopped onion, cumin powder, and salt in a bowl. Mix well and knead the mixture for 5-7 minutes until it becomes soft and smooth. Make small balls from the mixture. Heat water in a pan and bring it to a boil. Add the fish balls to the boiling water and cook for 10-15 minutes until the balls float on the surface and are cooked through. Remove from the water and keep aside. In a separate pan, heat oil and fry the fish balls until golden brown. Serve hot with tamarind sauce.",
+      "rating": 4
+    }
+  ]
  },
  {
-   "picture": "https://example.com/chef6.jpg",
+  "id":"6",
+   "picture": "https://img.freepik.com/free-photo/smiling-young-male-cook-wearing-chef-uniform-glasses-showing-yes-gesture-isolated-pink-wall_141793-78217.jpg?size=626&ext=jpg&ga=GA1.1.1419972379.1680192737&semt=ais",
    "name": "Abdul Aziz",
    "experience_years": 5,
    "num_recipes": 15,
-   "likes": 1500
+   "likes": 1500,
+   "bio": "Abdul Aziz is a well-known Bangladeshi chef who has been in the culinary industry for over 30 years. She specializes in traditional Bangladeshi cuisine and has published several cookbooks. Farida's dishes are known for their bold flavors and use of fresh, locally-sourced ingredients. She is also a strong advocate for sustainable and ethical food practices."
+,
+   "recipes": [
+    {
+      "recipe_name": "Beef Bhuna",
+      "ingredients": [
+        "1 pound beef, cut into small pieces",
+        "1/2 cup sliced onion",
+        "1/4 cup vegetable oil",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste"
+      ],
+      "cooking_method": "Heat oil in a pan. Add sliced onions and fry until light brown. Add ginger paste and garlic paste. Stir well. Add beef and cook on medium heat until the meat is browned and the juices have dried up. Add 1/2 cup of water and salt to taste. Cover and cook on low heat until the meat is tender and the gravy thickens. Serve hot with rice or naan.",
+      "rating": 4
+    },
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "2 large pieces of ilish (hilsa) fish",
+        "3 tablespoons mustard oil",
+        "1 tablespoon mustard seeds",
+        "1 teaspoon turmeric powder",
+        "2 green chilies, sliced"
+      ],
+      "cooking_method": "Clean and wash the fish pieces. Mix turmeric powder and salt with the fish pieces and keep aside. Heat mustard oil in a pan. Fry the fish pieces until brown on both sides. Remove from the pan and keep aside. In the same pan, add mustard seeds and fry until they splutter. Add turmeric powder, sliced green chilies, and 1/2 cup of water. Bring to a boil. Add the fried fish pieces and simmer for 10-15 minutes. Serve hot with steamed rice.",
+      "rating": 4.5
+    },
+    {
+      "recipe_name": "Chitol Maacher Muitha",
+      "ingredients": [
+        "1 pound chitol fish, minced",
+        "1/2 cup boiled potatoes, mashed",
+        "1/4 cup grated coconut",
+        "2 tablespoons chopped onion",
+        "1 teaspoon cumin powder"
+      ],
+      "cooking_method": "Mix minced fish, mashed potatoes, grated coconut, chopped onion, cumin powder, and salt in a bowl. Mix well and knead the mixture for 5-7 minutes until it becomes soft and smooth. Make small balls from the mixture. Heat water in a pan and bring it to a boil. Add the fish balls to the boiling water and cook for 10-15 minutes until the balls float on the surface and are cooked through. Remove from the water and keep aside. In a separate pan, heat oil and fry the fish balls until golden brown. Serve hot with tamarind sauce.",
+      "rating": 4
+    }
+  ]
  }
 ]
